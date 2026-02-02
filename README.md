@@ -1,7 +1,3 @@
-# React + Vite + TypeScript + Zephyr Cloud
-
-Modern React application with Vite bundler, TypeScript, and automated deployment to Zephyr Cloud.
-
 ## 🎯 Project Overview
 
 This is a production-ready React SPA leveraging:
@@ -90,4 +86,6 @@ npm run build
 git add .
 git commit -m "feat: new feature"
 npm run build  # Auto-deploys new version
+
+link preview: https://eduardo-mota-81-react-vite-ts-challenge-em-eduard-e0bdc63d3-ze.zephyrcloud.app/
 ```
